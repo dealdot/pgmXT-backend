@@ -1,0 +1,6 @@
+image: /home/edy/cartographer_detailed_comments_ws/map/map.pgm
+resolution: 0.05
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+origin: [-29.71988487243652, -35.47211456298828, 0]
