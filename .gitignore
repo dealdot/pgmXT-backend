@@ -35,3 +35,7 @@ ecosystem.config.js
 .env*.local
 #environment
 .env
+#db
+data/pgm.db
+#uploadfile
+upload
